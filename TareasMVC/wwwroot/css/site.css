@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  min-height: 100%;
+}
+
+.usuarios-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin-top: 50px;
+}
+
+[name=tarea]:hover{
+    background-color:grey;
+}
+
+.footer-container {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin: 50px 0;
+    
+}
+
+.contenedor-principal-usuarios{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border: 1px solid rgb(126, 126, 126);
+  border-radius: 10px;
+}
+
+.titulo-principal{
+  font-size: 70px;
+  margin: 50px 0;
+}
+
+
+

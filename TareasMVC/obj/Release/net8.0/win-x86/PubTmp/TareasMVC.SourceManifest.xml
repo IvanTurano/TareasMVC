@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\c#\TareasMVC\TareasMVC\obj\Release\net8.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="D:\c#\TareasMVC\TareasMVC\obj\Release\net8.0\win-x86\PubTmp\EFSQLScripts\TareasMVC.ApplicationDbContext.sql" />
+</sitemanifest>

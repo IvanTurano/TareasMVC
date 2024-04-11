@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQ1wJIHWqA0u6PNRAgrwWNQAAAAACAAAAAAAQZgAAAAEAACAAAACPngWPablNQFNJTQ0c4biVrLXjHFO5w9KEW6fYlICsxQAAAAAOgAAAAAIAACAAAADPu0rvp4rybuAkz6D67NB6g3WhBC0GpJ/ncZ5J2pDBqIAAAAAXevWAcNdL0qdZ+BK8qJUF7SJwyeC/iZ9qzTHPH67ZC9ytzKCRXhsCDddqK88z+jAHOdYHWs69qtjeNKcEul8KWHCo6r0cgQcYGP+RXZtFmuDVBizmHVF0D3UT7p1NgIEpKNVuRLV/CDFyDxeNW7henNgOrY/zhbaHZznDJTwXg0AAAABXqqi6HhobYU23NR4KrsvSDzjRtHY7JcK77gKXzFWLdNWo50SRnhOtgCq7RtIfNnLzSy4WOWRzMl/pmk9jW705</EncryptedPassword>
+    <History>True|2024-04-10T20:52:18.1013145Z;False|2024-04-10T17:47:31.4159113-03:00;True|2024-04-10T17:34:06.1530977-03:00;False|2024-04-10T17:27:13.2632008-03:00;False|2024-04-10T17:09:13.7221634-03:00;False|2024-04-10T16:56:13.8418616-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="TareasMVC.ApplicationDbContext">
+      <Value>Data Source=tareasmvcdbserver1.database.windows.net,1433%3bInitial Catalog=TareasMVC_db%3bUser ID=ivanturano%3bPassword=Felipe638</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
